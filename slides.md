@@ -57,7 +57,7 @@ figureUrl: /images/FRRN_logo_small.png
 * <mdi-clock-time-eleven-outline/> Réseau récent, les journées de cette année sont seulement les deuxièmes organisées.
 * <mdi-account/> Réseau national composé de scientifiques (surtout recherche universitaire) intéressés par le sujet.
 * <mdi-person-alert-outline/> Objectif de promouvoir la reproductibilité en recherche, les outils et la formation sur le sujet.
-* <mdiEmailMultipleOutline /> Fonctionne par liste de diffusion, forums et goupes de travail
+* <mdi-email-multiple-outline /> Fonctionne par liste de diffusion, forums et goupes de travail
     *  [https://www.recherche-reproductible.fr/](https://www.recherche-reproductible.fr/)
     *  [https://groupes.renater.fr/sympa/info/recherche-reproductible](https://groupes.renater.fr/sympa/info/recherche-reproductible)
     *  [https://forum.recherche-reproductible.fr/](https://forum.recherche-reproductible.fr/)
@@ -81,7 +81,7 @@ Saint Martin d'Hères, du 26 au 28 Mars 2024
 layout: center
 class: "text-center"
 ---
-# <mdiMemory/>
+# <mdi-memory/>
 # Ce que je retiens
 
 ---
@@ -166,7 +166,7 @@ layout: 2x2-grid-header
 
 # La formation
 
-<mdiAccountSchoolOutline font-size="72px"/>
+<mdi-account-school-outline font-size="72px"/>
 
 - Importance de former les étudiants (master, thésards..)
     - Summer schools, ECTS...
@@ -186,7 +186,7 @@ Penser aussi licenses, DOI
 
 # Les actions du réseau
 
-<mdiMapCheckOutline font-size="72px"/>
+<mdi-map-check-outline font-size="72px"/>
 - Des groupes de travail (formation, notebooks...)
 <br />
 - Des MOOC, sur la plateforme FUN
@@ -209,9 +209,9 @@ figureUrl: ./images/pfgt_gitlab.png
 
     
 - Gestion des codes:
-    - Versionner: <mdiGithub /> Github, <mdiGitlab /> gitlab
+    - Versionner: <mdi-github /> Github, <mdi-gitlab /> gitlab
     - renv ou autre pour gérer les packages (guix?)
-    - container: <span v-mark.red="1"> <mdiDocker  /> Docker pour packager tout</span>
+    - container: <span v-mark.red="1"> <mdi-docker  /> Docker pour packager tout</span>
 
     
 - Développements => software heritage
@@ -363,7 +363,7 @@ layout: center
 class: "text-center"
 ---
 
-# <mdiDocker  />
+# <mdi-docker  />
 # Docker
 Soon
 
