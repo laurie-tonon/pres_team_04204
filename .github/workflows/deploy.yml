@@ -30,7 +30,7 @@ jobs:
         run: npm install
 
       - name: Build
-        run: npm run build -- --base /pres_team_04204/
+        run: npm run build -- --base '/pres_team_04204/'
 
       - uses: actions/configure-pages@v4
 
