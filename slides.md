@@ -54,9 +54,9 @@ figureUrl: /images/FRRN_logo_small.png
 
 # Le Réseau
 
-* <mdi-clock-time-eleven-outline/> Réseau récent, les journées de cette année sont seulement les deuxièmes organisées.
-* <mdi-account/> Réseau national composé de scientifiques (surtout recherche universitaire) intéressés par le sujet.
-* <mdi-account/> Objectif de promouvoir la reproductibilité en recherche, les outils et la formation sur le sujet.
+* <mdi-clock-outline /> Réseau récent, les journées de cette année sont seulement les deuxièmes organisées.
+* <mdi-account /> Réseau national composé de scientifiques (surtout recherche universitaire) intéressés par le sujet.
+* <mdi-person-alert-outline /> Objectif de promouvoir la reproductibilité en recherche, les outils et la formation sur le sujet.
 * Fonctionne par liste de diffusion, forums et goupes de travail
     *  [https://www.recherche-reproductible.fr/](https://www.recherche-reproductible.fr/)
     *  [https://groupes.renater.fr/sympa/info/recherche-reproductible](https://groupes.renater.fr/sympa/info/recherche-reproductible)
