@@ -33,7 +33,7 @@ jobs:
         run:  npm i -g @slidev/cli
 
       - name: Build
-        run: slidev run build --base /pres_team_04204/
+        run: slidev build --base /pres_team_04204/
 
       - uses: actions/configure-pages@v4
 
